@@ -2,7 +2,7 @@
 
 **Software Engineering Student | Systems Programming & Full-Stack Development**
 
-🎓 4th year at Azrieli College (GPA: 85/100)  
+🎓 4th year at Azrieli College 
 💼 Integration Engineer Intern @ SkylyX  
 💻 Building real-time drone fleet systems
 
@@ -28,4 +28,4 @@
 **Other:** Python, Java, Git, Linux
 
 📫 **Contact:** 8mori8@gmail.com  
-💼 **LinkedIn:** [Your Profile]
+💼 **LinkedIn:** https://www.linkedin.com/in/mori-sason-9a4811281/
