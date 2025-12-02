@@ -1,4 +1,4 @@
-# Hi, I'm Mori 👋
+# Hi, I'm Mori 
 
 **Software Engineering Student | Systems Programming & Full-Stack Development**
 
