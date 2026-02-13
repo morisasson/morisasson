@@ -1,9 +1,9 @@
 # Hi, I'm Mori 
 
-**Software Engineering Student | Systems Programming & Full-Stack Development**
+**Python Software Engineer | Real-Time & Backend Systems
 
  4th year at Azrieli College 
- Integration Engineer Intern @ SkylyX  
+ Software Engineer – Real-Time Python Systems @ SkylyX  
  Building real-time drone fleet systems
 
 ##  Featured Projects
